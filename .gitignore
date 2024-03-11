@@ -1,5 +1,6 @@
 *
 !.gitignore
 !autoexec.cfg
-!helpme.cfg
 !crosshair*.cfg
+!jumpthrow.cfg
+!helpme.cfg
