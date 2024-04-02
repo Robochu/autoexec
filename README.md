@@ -93,7 +93,7 @@
 
 To practice nade lineups, wallbangs, and skill jumps, go to `Play` &rarr;
 `Practice` &rarr; `Competitive`, choose the desired map, click `Go`, wait for
-the map to load and type `practice` or `sp` in the console. After one second,
+the map to load and type `practice` or `sep` in the console. After one second,
 the match should restart and the config should be ready.
 
 ### Binds
