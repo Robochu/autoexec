@@ -98,4 +98,4 @@ the match should restart and the config should be ready.
 - <kbd>Space</kbd> &rarr; noclip
 - <kbd>Q</kbd> &rarr; rethrow last nade
 - <kbd>T</kbd> &rarr; clear smokes and nade projectiles
-- <kbd>Alt</kbd> &rarr; full buy
+- <kbd>Del</kbd> &rarr; full buy
