@@ -27,7 +27,6 @@
 - <kbd>Shift</kbd> &rarr; walk
 - <kbd>Ctrl</kbd> &rarr; crouch
 - Mouse scroll wheel up/down &rarr; jump
-- <kbd>Del</kbd> &rarr; long jump
 
 ### Weapon selection
 
@@ -71,7 +70,7 @@
 
 ### Other
 
-- <kbd>Alt</kbd> &rarr; inspect weapon
+- <kbd>Del</kbd> &rarr; inspect weapon
 
 ## Aliases
 
