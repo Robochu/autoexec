@@ -27,7 +27,6 @@
 - <kbd>Shift</kbd> &rarr; walk
 - <kbd>Ctrl</kbd> &rarr; crouch
 - Mouse scroll wheel up/down &rarr; jump
-- Middle mouse button &rarr; jump throw
 - <kbd>Del</kbd> &rarr; long jump
 
 ### Weapon selection
@@ -59,7 +58,6 @@
 
 ### User interface
 
-- Mouse 4 &rarr; switch crosshair (for nade lineups)
 - <kbd>Tab</kbd> &rarr; scoreboard
 - <kbd>B</kbd> &rarr; buy menu
 - <kbd>7</kbd> &rarr; rebuy
